@@ -4,6 +4,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
+
 <img src = 'images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Damilola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damilola-ojo1)](https://www.linkedin.com/in/damilola-ojo1) [![Gmail Badge](https://img.shields.io/badge/-damsony.soji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damsony.soji@gmail.com)](mailto:damsony.soji@gmail.com) <!--[![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)-->
@@ -20,7 +21,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
 ## Programming Languages
-<!--<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> --> <img src = 'images/python2.png' height='30'/>  <img src = 'images/html.svg' width='30'/> <img src='images/java.svg' width='30'/> <img src = 'images/kotlin.svg' width='30'/> <img src = 'images/css.svg' width='30'/> <img src = 'images/js.svg' width='30'/> <img src = 'images/bootstrap.svg' width='33'/> <img src = 'images/dart.svg' width='33'/> <img src = 'images/php.svg' width='40'/><img src = 'images/sql.svg' width='30'/> 
+<img src = 'images/python2.png' height='30'/>  <img src = 'images/html.svg' width='30'/> <img src='images/java.svg' width='30'/> <img src = 'images/kotlin.svg' width='30'/> <img src = 'images/css.svg' width='30'/> <img src = 'images/js.svg' width='30'/> <img src = 'images/bootstrap.svg' width='33'/> <img src = 'images/dart.svg' width='33'/> <img src = 'images/php.svg' width='40'/><img src = 'images/sql.svg' width='30'/> 
  
  ## Technologies I Use
  <img src = 'images/pycharm.svg' width='30'/>  <img src = 'images/android.svg' height='40'/><img src = 'images/flutter-logo.svg' width='30'/> <img src = 'images/django.svg' height='40'/> <img src = 'images/flask.png' width='30'/> <img src = 'images/git.svg' width='30'/> <img src = 'images/nodejs.svg' width='33'/> <img src = 'images/react.svg' width='33'/>
