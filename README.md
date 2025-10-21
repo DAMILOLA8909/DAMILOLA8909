@@ -12,6 +12,38 @@
 
 <div style="text-align: right">The most exciting people in the world, are does who stay true to their words and dreams.. </div>
 
+---
+## 💡 About Me
+
+Hi there! 👋
+I’m Damilola Ojo, a Junior Full-Stack Software Engineer passionate about building scalable, user-focused digital solutions that make everyday life easier.
+
+My journey started in Industrial Chemistry, where I developed a strong problem-solving mindset and analytical approach to challenges. Over time, I transitioned into software engineering, combining creativity and logic to craft intuitive front-end interfaces and efficient back-end systems.
+
+
+---
+
+## 🧠 What I Do
+
+⚙️ Full-Stack Development: Building dynamic and responsive web applications using React, Node.js, Express, and MongoDB.
+
+🎨 Front-End Engineering: Turning wireframes into elegant, user-friendly interfaces with HTML, CSS, and JavaScript (and sometimes a bit of TailwindCSS).
+
+🗄️ Back-End Development: Designing RESTful APIs, managing databases, and ensuring efficient server-client communication.
+
+☁️ Deployment & Tools: Experienced with Git, GitHub Actions, and deploying apps on Vercel, Netlify, or Render.
+
+
+
+---
+
+## 🚀 What Drives Me
+
+I’m driven by curiosity and a passion for continuous learning, whether it’s exploring new technologies, improving app performance, or contributing to open source projects. My goal is to grow into a developer who not only writes clean, maintainable code but also designs impactful software that solves real problems across industries, including education and agriculture in Africa.
+
+
+---
+
 ## :computer: Technologies I Love
 * Flutter
 * Machine Learning
